@@ -1,1 +1,1 @@
-[# openfood-ingredient-check](https://github.com/hbz4cf/openfood-ingredient-chec)
+[# openfood-ingredient-check](https://github.com/hbz4cf/openfood-ingredient-check)
